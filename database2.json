@@ -3,13 +3,9 @@
 	"name": "WinRar",
 	"type": "all",
 	"icon": "ctk",
-	"desc": "Modern UI Library",
-	"full_desc": "dfgdfgdfdfgdfgf",
+	"desc": "dfsfsdfsdfds",
 	"author": "TomSchimansky",
-	"highlights": ["Fully customisable widget", "CTkButton", "CTkEntry", "CTkComboBox", "CTkFrame", "CTkToplevel", "CTkLabel", "CTkScrollableFrame", "CTkSlider", "CTkTabview", "CTkSwitch", "CTkTextbox", "And more..."],
 	"repo_url": "https://github.com/TomSchimansky/CustomTkinter",
-	"image_url": "https://raw.githubusercontent.com/TomSchimansky/CustomTkinter/master/documentation_images/complex_example_dark_Windows.png",
-	"installation": "pip install customtkinter",
-	"tags": ["customtkinter", "tkinter", "ctk", "frame", "toplevel", "combobox","slider","progressbar","text","button","entry","label"]
+	"image_url": "https://raw.githubusercontent.com/TomSchimansky/CustomTkinter/master/documentation_images/complex_example_dark_Windows.png"
 	}
 }
