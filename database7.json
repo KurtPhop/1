@@ -1,0 +1,29 @@
+{
+"WinRar": {
+	"name": "",
+	"icon": "winrar",
+	"desc": "dfsfsdfsdfds",
+	"author": "TomSchimansky",
+	"version": "1",
+	"repo_url": "https://github.com/TomSchimansky/CustomTkinter",
+	"image_url": "https://raw.githubusercontent.com/TomSchimansky/CustomTkinter/master/documentation_images/complex_example_dark_Windows.png"
+	},
+"NotePad++": {
+	"name": "",
+	"icon": "notepad++",
+	"desc": "dfsfsdfsdfds",
+	"author": "TomSchimansky",
+	"version": "1",
+	"repo_url": "https://github.com/TomSchimansky/CustomTkinter",
+	"image_url": "https://raw.githubusercontent.com/TomSchimansky/CustomTkinter/master/documentation_images/complex_example_dark_Windows.png"
+	},
+"Rufus": {
+	"name": "",
+	"icon": "Rufus",
+	"desc": "dfsfsdfsdfds",
+	"author": "TomSchimansky",
+	"version": "1",
+	"repo_url": "https://github.com/TomSchimansky/CustomTkinter",
+	"image_url": "https://raw.githubusercontent.com/TomSchimansky/CustomTkinter/master/documentation_images/complex_example_dark_Windows.png"
+	}
+}
