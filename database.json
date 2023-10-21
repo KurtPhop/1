@@ -1,10 +1,10 @@
 {
 "CustomTkinter": {
-	"name": "customtkinter",
-	"type": "pip",
+	"name": "WinRar",
+	"type": "all",
 	"icon": "ctk",
 	"desc": "Modern UI Library",
-	"full_desc": "CustomTkinter is a python UI-library based on Tkinter, which provides new, modern and fully customizable widgets. They are created and used like normal Tkinter widgets and can also be used in combination with normal Tkinter elements. The widgets and the window colors either adapt to the system appearance or the manually set mode ('light', 'dark'), and all CustomTkinter widgets and windows support HighDPI scaling (Windows, macOS). With CustomTkinter you'll get a consistent and modern look across all desktop platforms (Windows, macOS, Linux).",
+	"full_desc": "dfgdfgdfdfgdfgf",
 	"author": "TomSchimansky",
 	"highlights": ["Fully customisable widget", "CTkButton", "CTkEntry", "CTkComboBox", "CTkFrame", "CTkToplevel", "CTkLabel", "CTkScrollableFrame", "CTkSlider", "CTkTabview", "CTkSwitch", "CTkTextbox", "And more..."],
 	"repo_url": "https://github.com/TomSchimansky/CustomTkinter",
