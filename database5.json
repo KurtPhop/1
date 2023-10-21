@@ -1,8 +1,6 @@
 {
-"CustomTkinter": {
-	"name": "WinRar",
-	"type": "all",
-	"icon": "ctk",
+"WinRar": {
+	"icon": "winrar",
 	"desc": "dfsfsdfsdfds",
 	"author": "TomSchimansky",
 	"version": "1",
